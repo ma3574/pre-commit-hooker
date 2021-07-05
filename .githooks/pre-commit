@@ -4,3 +4,5 @@ echo 'In the commit hook!'
 echo "Appending at $('date')" >> README.md
 
 git add --all
+
+echo 'DONE'
